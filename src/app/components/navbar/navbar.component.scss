@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 60px;
+    padding: 0 24px;
+
+    background: linear-gradient(to right, rgb(137, 138, 212), rgb(63, 63, 231));
+
+    ul{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        
+    }
+}
+
+a{
+    font-weight: 600;
+    color: #fff;
+}
